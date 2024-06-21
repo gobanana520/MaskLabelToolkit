@@ -52,4 +52,4 @@ Run the following command to start the MaskLabelToolkit:
   5. Type in the mask label and add the mask by pressing `Add Mask`
   6. Press `Save Mask` to save the mask, press `Q` to exit the toolkit
 
-![MaskLabelToolkit](./assets/labeltookit.gif)
+![MaskLabelToolkit](./assets/labeltoolkit.gif)
