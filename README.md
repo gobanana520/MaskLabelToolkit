@@ -4,7 +4,7 @@
 
 ```bash
 # Clone the repository
-git clone --recursive git@github.com:gobanana520/MaskLabelToolkit.git
+git clone --recursive https://github.com/gobanana520/MaskLabelToolkit.git
 
 # Change the directory
 cd MaskLabelToolkit
