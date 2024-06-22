@@ -4,8 +4,8 @@ import open3d.visualization.rendering as rendering
 
 from mobile_sam import sam_model_registry, SamPredictor
 from _init_paths import *
-from lib.utils import *
-from lib.utils.commons import *
+from libs.utils import *
+from libs.utils.commons import *
 
 
 class MaskLabelToolkit:

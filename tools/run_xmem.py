@@ -1,7 +1,7 @@
 from _init_paths import *
-from lib.utils import *
-from lib.utils.commons import *
-from lib.wrappers.xmem_wrapper import XMemWrapper
+from libs.utils import *
+from libs.utils.commons import *
+from libs.wrappers.xmem_wrapper import XMemWrapper
 
 
 def run_xmem_segmentation(rgb_images, mask_0, save_folder):
